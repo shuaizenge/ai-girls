@@ -21,6 +21,8 @@ ZipZipPipe 在 [《大AI和小AI们》简介](https://www.bilibili.com/video/BV1
 
 社区三视图的原角色许可与具体文件作者的核验状态分别记录；这里不额外代表未核实的三视图绘制者授予授权。
 
+`characters/deepseek/DeepSeek娘_人声.mp3` 是 [星落落_oi 翻唱《人是猫》](https://www.bilibili.com/video/BV1fYpn6SEk9/) 成片生成的纯人声，只作 DeepSeek 娘声音参考。该页注明含 AI 生成内容，并写明未经作者授权禁止转载。它不适用上方图像的 CC BY-NC-SA 4.0 声明，本仓库也不把它视为可再分发的开放素材。原曲为张卡斯的洛天依原创《人是猫》（[BV1Bfjq6LEDi](https://www.bilibili.com/video/BV1Bfjq6LEDi/)）。
+
 ## 豆包官方形象
 
 `characters/doubao/official/doubao-avatar.png` 来自 [豆包官网](https://www.doubao.com/) 的公开 CDN 资源。形象及品牌相关权利归豆包 / 字节跳动等对应权利人所有。本仓库记录官方出处，不将其标为 ZipZipPipe 作品或开放许可同人素材。

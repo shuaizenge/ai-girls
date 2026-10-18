@@ -45,6 +45,16 @@
       "accessed_on": "2026-10-01",
       "kind": "official_brand_asset",
       "note": "官网公开的官方头像，不是全身立绘，不推断成年 / Q版设定。"
+    },
+    "xingluoluo-ren-shi-mao": {
+      "title": "星落落_oi《deepseek 翻唱〈人是猫〉真完整版》",
+      "page_url": "https://www.bilibili.com/video/BV1fYpn6SEk9/",
+      "author": "星落落_oi",
+      "published_at": "2026-10-11T22:17:12+08:00",
+      "accessed_on": "2026-10-18",
+      "kind": "community_vocal_reference",
+      "bvid": "BV1fYpn6SEk9",
+      "note": "成片为 DeepSeek 娘翻唱《人是猫》。本仓库保存由该成片生成的纯人声，用作声音参考，不是带伴奏的完整视频。简介注明含 AI 生成内容，且未经作者授权禁止转载。原曲为张卡斯的洛天依原创《人是猫》（BV1Bfjq6LEDi）；视频制作蒙德砍壬；形象模型来自 ZipZipPipe；音色参考标注为 ssr 大肥鱼音色（BV1PPYM6EEUR）。"
     }
   },
   "sharing_statement": {

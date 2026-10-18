@@ -8,7 +8,7 @@
 
 ## 收集进度
 
-截至 **2026-10-01**，保存了 **21 份素材**：10 张作者原图（8 张初始设计立绘、2 张变体）、8 张作者视频中的 Q 版展示截帧、2 张社区补充三视图、1 张豆包官方头像。轻量预览另外存放，不计入原素材数量。
+截至 **2026-10-01**，保存了 **21 份图像素材**：10 张作者原图（8 张初始设计立绘、2 张变体）、8 张作者视频中的 Q 版展示截帧、2 张社区补充三视图、1 张豆包官方头像。轻量预览另外存放，不计入原素材数量。**2026-10-18** 另存入 1 份 DeepSeek 纯人声参考，见 [DeepSeek 说明](characters/deepseek/README.md)。
 
 **这批素材尚未齐全。** Q 版暂用作者原视频的清晰截帧，原始图像文件仍待补；只有 DeepSeek 找到了社区补充三视图，其余角色三视图及豆包全身设定仍缺失。社区三视图未核实具体绘制者，不标为 ZipZipPipe 原稿。
 
@@ -38,6 +38,7 @@ ai-girls/
 ├── characters/
 │   ├── deepseek/
 │   │   ├── README.md
+│   │   ├── DeepSeek娘_人声.mp3   # 《人是猫》翻唱纯人声参考
 │   │   ├── adult/                # 作者原图及变体
 │   │   ├── chibi/                # 作者视频的 Q 版展示截帧
 │   │   └── turnarounds/          # 社区补充三视图
@@ -66,6 +67,7 @@ ai-girls/
 | [ZipZipPipe · Bilibili](https://space.bilibili.com/4168597) / [《大AI和小AI们》](https://www.bilibili.com/video/BV1tE9XBbErS/) | 核对大、小两种设计，提取八位需求角色的 Q 版展示截帧 |
 | [《“亿万”身家的她们》](https://www.bilibili.com/video/BV1bARXBYEZz/) | 作者关于图片开放分享及再创作的说明 |
 | [梗鲸 · 三视图设定集](https://aigengtu.com/refs) | DeepSeek 长裙女仆 / Q 版蓝女仆两张社区参考，绘制者未核实 |
+| [星落落_oi ·《人是猫》翻唱](https://www.bilibili.com/video/BV1fYpn6SEk9/) | DeepSeek 纯人声参考；成片注明未经授权禁止转载 |
 | [豆包官网](https://www.doubao.com/) | 官网公开的官方短发女性头像 |
 
 DeepSeek 需保留完整创作链：**[上善无形](https://space.bilibili.com/4456176)原始鲸鱼娘角色 → ZipZipPipe 的 DeepSeek 女仆二次设计**。详见 [来源核验记录](sources/source-records.json)。

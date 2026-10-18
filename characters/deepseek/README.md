@@ -11,6 +11,13 @@
 | [作者正常比例立绘变体](adult/zipzippipe-pixiv-148186519-p01-variant.jpg) | 1536×2752 / adult / portrait_variant | [P2（下标 p1）](https://www.pixiv.net/artworks/148186519) |
 | [社区补充三视图](turnarounds/adult-aigengtu-03-long-skirt-maid.png) | 1536×1024 / adult / turnaround | [梗鲸 / 大肥鱼娘三视图设定集](https://aigengtu.com/refs) |
 | [社区补充三视图](turnarounds/chibi-aigengtu-05-chibi-blue-maid.png) | 1774×887 / chibi / turnaround | [梗鲸 / 大肥鱼娘三视图设定集](https://aigengtu.com/refs) |
+| [DeepSeek娘纯人声](DeepSeek娘_人声.mp3) | 2 分 14 秒 / mp3 / voice_reference | [BV1fYpn6SEk9](https://www.bilibili.com/video/BV1fYpn6SEk9/) |
+
+## 声音参考
+
+[DeepSeek娘_人声.mp3](DeepSeek娘_人声.mp3) 是由 [星落落_oi《deepseek 翻唱〈人是猫〉真完整版，大肥鱼觉得人和猫一样可爱,所以人是猫》](https://www.bilibili.com/video/BV1fYpn6SEk9/) 生成的纯人声，本地用作 DeepSeek 娘的声音参考。文件时长 134.1 秒（约 2 分 14 秒），与成片长度一致；只保留人声，不是带伴奏的完整成片。
+
+成片于 2026-10-11 发布，UP 主为星落落_oi，视频制作为蒙德砍壬，大肥鱼形象模型来自 ZipZipPipe。原曲是张卡斯的洛天依原创《人是猫》（[BV1Bfjq6LEDi](https://www.bilibili.com/video/BV1Bfjq6LEDi/)，非 AI）。简介中的音色参考标注为 ssr 大肥鱼音色（[BV1PPYM6EEUR](https://www.bilibili.com/video/BV1PPYM6EEUR/)）。页面注明含 AI 生成内容，并写明未经作者授权禁止转载。本文件只作声音参考存档，不改变该限制。
 
 ## 预览
 
