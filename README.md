@@ -2,27 +2,33 @@
 
 收集 AI 拟人角色的初始设计立绘、Q 版和三视图，供查阅、角色一致性参考及遵守原作者许可的二次创作使用。
 
-首批：**DeepSeek、GPT、Claude、Grok、Kimi、Gemini、智谱 GLM、千问 Qwen、豆包**。前八位以 **ZipZipPipe** 的设计为准，豆包采用官方形象。需求中的 `gmini` 统一为 `Gemini`。
-
 ![首批角色：上排正常比例，下排作者小AI版展示截帧](previews/collection.jpg)
+
+![后续角色：正常比例立绘。MiMo 是甶丶的设计](previews/collection-later.jpg)
 
 ## 收集进度
 
-截至 **2026-10-01**，保存了 **21 份图像素材**：10 张作者原图（8 张初始设计立绘、2 张变体）、8 张作者视频中的 Q 版展示截帧、2 张社区补充三视图、1 张豆包官方头像。轻量预览另外存放，不计入原素材数量。**2026-10-18** 另存入 1 份 DeepSeek 纯人声参考，见 [DeepSeek 说明](characters/deepseek/README.md)。
+截至 **2026-10-20**，保存了 **33 份图像素材** 和 **1 份** DeepSeek 纯人声。轻量预览另外存放，不计入原素材数量。人声说明见 [DeepSeek 说明](characters/deepseek/README.md)。
 
-**这批素材尚未齐全。** Q 版暂用作者原视频的清晰截帧，原始图像文件仍待补；只有 DeepSeek 找到了社区补充三视图，其余角色三视图及豆包全身设定仍缺失。社区三视图未核实具体绘制者，不标为 ZipZipPipe 原稿。
+**立绘仍未收全。** Q 版仍只有《大AI和小AI们》里八位角色的清晰截帧，原始 Q 版图像未取得；MiniMax 在该视频中有展示，截帧还没提取。DeepSeek 另有社区补充三视图，MiMo 有作者自己的三视图。ZipZipPipe 的豆包全身立绘在 Seed 目录，三视图没有作者原稿。
 
 | 角色 / 素材目录 | 初始设计正常比例立绘 | Q 版（作者小 AI 版） | 正常比例三视图 | Q 版三视图 |
 | --- | --- | --- | --- | --- |
-| [DeepSeek](characters/deepseek/) | 作者原图 + 1 张变体 | 作者视频 5 秒截帧；原图待补 | 社区补充，绘制者待核实 | 社区补充，绘制者待核实 |
+| [DeepSeek](characters/deepseek/) | 作者原图 + 2 张变体 | 作者视频 5 秒截帧；原图待补 | 社区补充，绘制者待核实 | 社区补充，绘制者待核实 |
 | [GPT / ChatGPT](characters/gpt/) | 作者原图 | 作者视频 23 秒截帧；原图待补 | 待收集 | 待收集 |
-| [Claude](characters/claude/) | 作者原图 | 作者视频 17 秒截帧；原图待补 | 待收集 | 待收集 |
+| [Claude](characters/claude/) | 作者原图 + 1 张工程服变体 | 作者视频 17 秒截帧；原图待补 | 待收集 | 待收集 |
 | [Grok](characters/grok/) | 作者原图 | 作者视频 29 秒截帧；原图待补 | 待收集 | 待收集 |
 | [Kimi](characters/kimi/) | 作者原图 | 作者视频 41 秒截帧；原图待补 | 待收集 | 待收集 |
 | [Gemini](characters/gemini/) | 作者原图 + 1 张变体 | 作者视频 11 秒截帧；原图待补 | 待收集 | 待收集 |
 | [智谱 / GLM](characters/glm/) | 作者原图 | 作者视频 35 秒截帧；原图待补 | 待收集 | 待收集 |
 | [千问 / Qwen](characters/qwen/) | 作者原图 | 作者视频 53 秒截帧；原图待补 | 待收集 | 待收集 |
-| [豆包 / Doubao](characters/doubao/) | 仅官方头像；全身立绘待补 | 官方全身版本待补 | 待收集 | 待收集 |
+| [MiniMax](characters/minimax/) | 作者原图 | 视频中有展示，截帧待提取 | 待收集 | 待收集 |
+| [Seed / 豆包](characters/seed/) | 作者原图 | 待收集 | 待收集 | 待收集 |
+| [Llama](characters/llama/) | 作者原图 + 1 张变体 | 待收集 | 待收集 | 待收集 |
+| [Mistral](characters/mistral/) | 作者原图 | 待收集 | 待收集 | 待收集 |
+| [混元 / Hunyuan](characters/hunyuan/) | 作者原图 | 待收集 | 待收集 | 待收集 |
+| [MiMo / 小米](characters/mimo/) | 甶丶原图，不是 ZipZipPipe | 待收集 | 作者原图，正面 / 侧面 / 背面 | 待收集 |
+| [豆包 / Doubao](characters/doubao/) | 官方头像；对照头像生成的全身 | 待收集 | 对照头像生成的正面 / 侧面 / 背面 | 待收集 |
 
 `adult` / 成年版仅指正常比例形象的目录分类，**不代表作者确认了角色年龄**。Q 版采用 ZipZipPipe 最初展示的“小 AI”版本，不以其他作者后来改设的二头身版本替代。
 
@@ -49,7 +55,13 @@ ai-girls/
 │   ├── gemini/
 │   ├── glm/
 │   ├── qwen/
-│   └── doubao/official/          # 豆包官方公开素材
+│   ├── minimax/
+│   ├── seed/                     # ZipZipPipe 的 Seed / 豆包拟人
+│   ├── llama/
+│   ├── mistral/
+│   ├── hunyuan/
+│   ├── mimo/                     # 甶丶的小米 MiMo，含三视图
+│   └── doubao/                   # 官方头像，以及对照头像生成的全身和三视图
 ├── previews/                     # 轻量预览，与原图分开
 ├── sources/source-records.json   # 来源核验记录
 └── scripts/verify.py              # 本地完整性校验
@@ -64,6 +76,9 @@ ai-girls/
 | 来源 | 本仓库使用方式 |
 | --- | --- |
 | [ZipZipPipe · Pixiv](https://www.pixiv.net/users/18604994) / [《AI娘化》](https://www.pixiv.net/artworks/148186519) | 作者本人合集的原始立绘文件；精确页码记录在角色说明及清单中 |
+| [ZipZipPipe · Pixiv](https://www.pixiv.net/users/18604994) / [《一些更新》](https://www.pixiv.net/artworks/150718881) | 2026-10-11 的后续原图。只保留对得上角色的页 |
+| [ZipZipPipe · Bilibili 动态](https://www.bilibili.com/opus/1236803362705375305) | 2026-08-15 的原图。与《AI娘化》重复的不重复保存，本仓库留 Seed 全身立绘和 DeepSeek 短裙女仆 |
+| [甶丶 ·《娘化mimo》](https://www.bilibili.com/opus/1242097128919007239) | 小米 MiMo 的立绘和三视图。ZipZipPipe 没有这套设计；作者说明为 CC BY-NC |
 | [ZipZipPipe · Bilibili](https://space.bilibili.com/4168597) / [《大AI和小AI们》](https://www.bilibili.com/video/BV1tE9XBbErS/) | 核对大、小两种设计，提取八位需求角色的 Q 版展示截帧 |
 | [《“亿万”身家的她们》](https://www.bilibili.com/video/BV1bARXBYEZz/) | 作者关于图片开放分享及再创作的说明 |
 | [梗鲸 · 三视图设定集](https://aigengtu.com/refs) | DeepSeek 长裙女仆 / Q 版蓝女仆两张社区参考，绘制者未核实 |

@@ -6,7 +6,8 @@
 
 - 作者：[ZipZipPipe · Pixiv](https://www.pixiv.net/users/18604994) / [Bilibili](https://space.bilibili.com/4168597)。
 - 正常比例立绘：[《AI娘化》](https://www.pixiv.net/artworks/148186519)，保留作者原文件。
-- Q 版展示：[《大AI和小AI们》](https://www.bilibili.com/video/BV1tE9XBbErS/)。本仓库八张 Q 版文件为完整静态截帧，未改角色、未裁切或重绘；原始 Q 版立绘文件尚未获得。
+- Q 版展示：[《大AI和小AI们》](https://www.bilibili.com/video/BV1tE9XBbErS/)。本仓库八张 Q 版文件为完整静态截帧，未改角色、未裁切或重绘；原始 Q 版立绘文件尚未获得。视频里还有 MiniMax，这张截帧尚未提取。
+- 后续原图：[《一些更新》](https://www.pixiv.net/artworks/150718881)，以及 [2026-08-15 的 Bilibili 动态](https://www.bilibili.com/opus/1236803362705375305)。动态里与 Pixiv 重复的文件没有再存一份。对不上角色名的页没有收入。
 - 作者在 [《“亿万”身家的她们》简介](https://www.bilibili.com/video/BV1bARXBYEZz/) 中说明自己的图片开放分享，允许用于再创作。此说明不等同于本仓库为全部角色确认了 CC0、MIT 或某个统一标准许可证。
 
 ## DeepSeek 的完整创作链
@@ -33,6 +34,6 @@ ZipZipPipe 在 [《大AI和小AI们》简介](https://www.bilibili.com/video/BV1
 
 作者原图、官方头像和社区参考图保留下载文件的原始字节。`previews/` 中的缩略图和总览拼图由收录素材缩小生成，权利及署名要求随对应源素材；它们不是新的角色设计。
 
-DeepSeek、ChatGPT / GPT、Claude、Grok、Kimi、Gemini、GLM、Qwen、豆包等名称及商标归各自权利人所有。除明确标注的豆包官方头像外，角色均为社区拟人设计，不代表厂商官方角色或合作关系。
+DeepSeek、ChatGPT / GPT、Claude、Grok、Kimi、Gemini、GLM、Qwen、MiniMax、Seed、豆包、Llama、Mistral、混元、MiMo、小米等名称及商标归各自权利人所有。除明确标注的豆包官方头像外，角色均为社区拟人设计，不代表厂商官方角色或合作关系。ZipZipPipe 的 Seed / 豆包拟人在 `characters/seed/`，与 `characters/doubao/` 的官方头像分开存放。小米 MiMo 的立绘和三视图作者是甶丶，采用其声明的 CC BY-NC，不是 ZipZipPipe 的作品。
 
 如需更正署名、来源、许可或移除具体素材，可在本仓库提出 Issue，并指出文件路径和可核实的作品出处。

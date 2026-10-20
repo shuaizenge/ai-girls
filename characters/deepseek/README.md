@@ -9,6 +9,7 @@
 | [初始设计正常比例立绘](adult/zipzippipe-pixiv-148186519-p00.jpg) | 1152×2048 / adult / original_portrait | [P1（下标 p0）](https://www.pixiv.net/artworks/148186519) |
 | [作者原版Q版展示截帧](chibi/zipzippipe-BV1tE9XBbErS-05s.png) | 720×1280 / chibi / video_frame_reference | [5 秒](https://www.bilibili.com/video/BV1tE9XBbErS/) |
 | [作者正常比例立绘变体](adult/zipzippipe-pixiv-148186519-p01-variant.jpg) | 1536×2752 / adult / portrait_variant | [P2（下标 p1）](https://www.pixiv.net/artworks/148186519) |
+| [作者短裙女仆立绘](adult/zipzippipe-bilibili-1236803362705375305-p07.jpg) | 1536×2752 / adult / portrait_variant | [动态第 8 张](https://www.bilibili.com/opus/1236803362705375305) |
 | [社区补充三视图](turnarounds/adult-aigengtu-03-long-skirt-maid.png) | 1536×1024 / adult / turnaround | [梗鲸 / 大肥鱼娘三视图设定集](https://aigengtu.com/refs) |
 | [社区补充三视图](turnarounds/chibi-aigengtu-05-chibi-blue-maid.png) | 1774×887 / chibi / turnaround | [梗鲸 / 大肥鱼娘三视图设定集](https://aigengtu.com/refs) |
 | [DeepSeek娘纯人声](DeepSeek娘_人声.mp3) | 2 分 14 秒 / mp3 / voice_reference | [BV1fYpn6SEk9](https://www.bilibili.com/video/BV1fYpn6SEk9/) |
@@ -26,6 +27,12 @@
 [![初始设计正常比例立绘](../../previews/deepseek-adult-zipzippipe-pixiv-148186519-p00.jpg)](adult/zipzippipe-pixiv-148186519-p00.jpg)
 
 作者本人公开的初始设计立绘版本；成年仅作正常比例分类，不代表作者公布了角色年龄。
+
+### 作者短裙女仆立绘
+
+[![作者短裙女仆立绘](../../previews/deepseek-adult-zipzippipe-bilibili-1236803362705375305-p07.jpg)](adult/zipzippipe-bilibili-1236803362705375305-p07.jpg)
+
+蓝发鲸尾短裙女仆，围裙口袋有鲸鱼图案。与 Pixiv 长裙初始设计不是同一文件。
 
 ### 作者原版Q版展示截帧
 

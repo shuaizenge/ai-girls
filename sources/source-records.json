@@ -26,7 +26,7 @@
         1280
       ],
       "video_sha256": "90422b16e63a2c0ec410fa3a19930120baff8f1d6446b45c060d2eaa02ddb70f",
-      "note": "作者在简介中说明包含九款 AI 的大、小两种设计。本仓库仅收录需求中的八款。Q版为原视频清晰展示时刻的完整截帧，未裁切、未放大、未重绘；不是原始图像文件。"
+      "note": "作者在简介中说明包含九款 AI 的大、小两种设计，顺序为 DeepSeek、Gemini、Claude、GPT、Grok、GLM、Kimi、MiniMax、Qwen。本仓库已有其中八款的 Q 版截帧；MiniMax 的 Q 版截帧尚未提取。截帧为完整画面，未裁切、未放大、未重绘。"
     },
     "aigengtu-refs": {
       "title": "梗鲸 / 大肥鱼娘三视图设定集",
@@ -55,6 +55,38 @@
       "kind": "community_vocal_reference",
       "bvid": "BV1fYpn6SEk9",
       "note": "成片为 DeepSeek 娘翻唱《人是猫》。本仓库保存由该成片生成的纯人声，用作声音参考，不是带伴奏的完整视频。简介注明含 AI 生成内容，且未经作者授权禁止转载。原曲为张卡斯的洛天依原创《人是猫》（BV1Bfjq6LEDi）；视频制作蒙德砍壬；形象模型来自 ZipZipPipe；音色参考标注为 ssr 大肥鱼音色（BV1PPYM6EEUR）。"
+    },
+    "zipzippipe-pixiv-150718881": {
+      "title": "ZipZipPipe《一些更新》",
+      "page_url": "https://www.pixiv.net/artworks/150718881",
+      "author": "ZipZipPipe",
+      "author_id": "18604994",
+      "author_url": "https://www.pixiv.net/users/18604994",
+      "published_at": "2026-10-11T14:51:00+09:00",
+      "accessed_on": "2026-10-20",
+      "kind": "author_original_collection",
+      "note": "作者说明这批仍未发完。对得上角色的页已归入角色目录，对不上角色名的页已从本仓库删除。"
+    },
+    "zipzippipe-bilibili-20260815": {
+      "title": "ZipZipPipe 2026-08-15 动态配图",
+      "page_url": "https://www.bilibili.com/opus/1236803362705375305",
+      "author": "ZipZipPipe",
+      "author_id": "4168597",
+      "author_url": "https://space.bilibili.com/4168597",
+      "published_at": "2026-08-15T22:28:00+08:00",
+      "accessed_on": "2026-10-20",
+      "kind": "author_original_collection",
+      "note": "九张原图。与 Pixiv《AI娘化》重复的不重复保存；Image 2 已从本仓库移除。此处保留 Seed 全身立绘和 DeepSeek 短裙女仆。"
+    },
+    "fuh-mimo": {
+      "title": "甶丶《娘化mimo》",
+      "page_url": "https://www.bilibili.com/opus/1242097128919007239",
+      "author": "甶丶",
+      "author_url": "https://www.bilibili.com/opus/1242097128919007239",
+      "published_at": "2026-08-30T04:51:00+08:00",
+      "accessed_on": "2026-10-20",
+      "kind": "community_character_design",
+      "note": "ZipZipPipe 的公开合集没有小米 MiMo。此套为作者甶丶发布的立绘和三视图，投稿说明为 CC BY-NC，并允许收录和下载。"
     }
   },
   "sharing_statement": {
@@ -76,5 +108,15 @@
     "createDate": "2026-08-08T16:18:00+00:00",
     "aiType": 2,
     "pageCount": 17
+  },
+  "supplemented_on": "2026-10-20",
+  "pixiv_update_metadata": {
+    "id": "150718881",
+    "title": "一些更新",
+    "description": "再发一批吧，其实还没发完，还有一些，都是AI生成的图片。",
+    "userId": "18604994",
+    "userName": "ZipZipPipe",
+    "createDate": "2026-10-11T05:51:00+00:00",
+    "pageCount": 20
   }
 }
