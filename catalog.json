@@ -77,7 +77,7 @@
       "published_at": "2026-08-15T22:28:00+08:00",
       "accessed_on": "2026-10-20",
       "kind": "author_original_collection",
-      "note": "九张原图。与 Pixiv《AI娘化》重复的不重复保存；Image 2 已从本仓库移除。此处保留 Seed 全身立绘和 DeepSeek 短裙女仆。"
+      "note": "九张原图。与 Pixiv《AI娘化》重复的不重复保存；Image 2 已从本仓库移除。动态第一张与《AI娘化》P11 是同一张 Seedance 立绘，不重复保存，原文件留在 Pixiv 页。此处保留 DeepSeek 短裙女仆。"
     },
     "fuh-mimo": {
       "title": "甶丶《娘化mimo》",
@@ -264,7 +264,7 @@
     },
     {
       "id": "seed",
-      "name": "Seed / 豆包",
+      "name": "Seedance",
       "design_basis": "ZipZipPipe",
       "appearance": "紫蓝单马尾、蓝白科技装、SEED 工牌、豆包玩偶",
       "coverage": {
@@ -841,17 +841,17 @@
       "preview": "previews/deepseek-adult-zipzippipe-pixiv-148186519-p01-variant.jpg"
     },
     {
-      "id": "zipzippipe-pixiv-148186519-p10-variant",
-      "character_id": "gemini",
-      "title": "作者另一形象版本（区别于初始猫娘）",
-      "path": "characters/gemini/adult/zipzippipe-pixiv-148186519-p10-variant.jpg",
+      "id": "zipzippipe-pixiv-148186519-p10",
+      "character_id": "seed",
+      "title": "初始设计正常比例立绘",
+      "path": "characters/seed/adult/zipzippipe-pixiv-148186519-p10.jpg",
       "source_id": "zipzippipe-pixiv",
-      "asset_type": "portrait_variant",
+      "asset_type": "original_portrait",
       "form": "adult",
       "creators": [
         "ZipZipPipe"
       ],
-      "note": "作者原图变体，单独保存，主预览仍使用初始设计。",
+      "note": "Seedance 拟人，不是 Gemini。工牌、裙摆和设备上写有 SEED，怀抱豆包玩偶。2026-08-15 Bilibili 动态第一张是同一张图，动态副本不重复保存。",
       "width": 3072,
       "height": 5504,
       "bytes": 8380978,
@@ -865,7 +865,7 @@
         "evidence_url": "https://www.bilibili.com/video/BV1bARXBYEZz/",
         "note": "作者说明作品开放分享与再创作，未核实这些角色适用统一标准许可证，不推断为 CC0 / MIT。"
       },
-      "preview": "previews/gemini-adult-zipzippipe-pixiv-148186519-p10-variant.jpg"
+      "preview": "previews/seed-adult-zipzippipe-pixiv-148186519-p10.jpg"
     },
     {
       "id": "adult-aigengtu-03-long-skirt-maid",
@@ -1104,33 +1104,6 @@
       "download_url": "https://i.pximg.net/img-original/img/2026/10/11/14/51/49/150718881_p4.jpg",
       "source_page_index": 4,
       "source_page_number": 5
-    },
-    {
-      "id": "zipzippipe-bilibili-1236803362705375305-p00",
-      "character_id": "seed",
-      "title": "初始设计正常比例立绘",
-      "path": "characters/seed/adult/zipzippipe-bilibili-1236803362705375305-p00.jpg",
-      "source_id": "zipzippipe-bilibili-20260815",
-      "asset_type": "original_portrait",
-      "form": "adult",
-      "creators": [
-        "ZipZipPipe"
-      ],
-      "note": "作者本人公开的立绘；成年仅作正常比例分类，不代表作者公布了角色年龄。工牌、裙摆和设备上写有 SEED，怀抱豆包玩偶。",
-      "width": 3072,
-      "height": 5504,
-      "bytes": 5673986,
-      "sha256": "81b76f71e19ed9f926e32c70f1710b7551e60efdfa858b46a4ee099d16e47847",
-      "license": {
-        "status": "author_sharing_statement",
-        "identifier": null,
-        "evidence_url": "https://www.bilibili.com/video/BV1bARXBYEZz/",
-        "note": "作者说明作品开放分享与再创作，未核实这些角色适用统一标准许可证，不推断为 CC0 / MIT。"
-      },
-      "preview": "previews/seed-adult-zipzippipe-bilibili-1236803362705375305-p00.jpg",
-      "download_url": "https://i0.hdslb.com/bfs/new_dyn/1ed69d8c1e9d61dce44db50894447a1e4168597.jpg",
-      "source_page_index": 0,
-      "source_page_number": 1
     },
     {
       "id": "zipzippipe-bilibili-1236803362705375305-p07",

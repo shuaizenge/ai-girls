@@ -34,6 +34,6 @@ ZipZipPipe 在 [《大AI和小AI们》简介](https://www.bilibili.com/video/BV1
 
 作者原图、官方头像和社区参考图保留下载文件的原始字节。`previews/` 中的缩略图和总览拼图由收录素材缩小生成，权利及署名要求随对应源素材；它们不是新的角色设计。
 
-DeepSeek、ChatGPT / GPT、Claude、Grok、Kimi、Gemini、GLM、Qwen、MiniMax、Seed、豆包、Llama、Mistral、混元、MiMo、小米等名称及商标归各自权利人所有。除明确标注的豆包官方头像外，角色均为社区拟人设计，不代表厂商官方角色或合作关系。ZipZipPipe 的 Seed / 豆包拟人在 `characters/seed/`，与 `characters/doubao/` 的官方头像分开存放。小米 MiMo 的立绘和三视图作者是甶丶，采用其声明的 CC BY-NC，不是 ZipZipPipe 的作品。
+DeepSeek、ChatGPT / GPT、Claude、Grok、Kimi、Gemini、GLM、Qwen、MiniMax、Seedance、Seed、豆包、Llama、Mistral、混元、MiMo、小米等名称及商标归各自权利人所有。除明确标注的豆包官方头像外，角色均为社区拟人设计，不代表厂商官方角色或合作关系。ZipZipPipe 的 Seedance 拟人在 `characters/seed/`，工牌文字是 SEED，与 `characters/doubao/` 的官方头像分开存放。小米 MiMo 的立绘和三视图作者是甶丶，采用其声明的 CC BY-NC，不是 ZipZipPipe 的作品。
 
 如需更正署名、来源、许可或移除具体素材，可在本仓库提出 Issue，并指出文件路径和可核实的作品出处。

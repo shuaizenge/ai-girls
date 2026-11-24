@@ -4,3 +4,6 @@ __pycache__/
 Thumbs.db
 
 previews/*
+!previews/collection.jpg
+!previews/collection-later.jpg
+!previews/seed-adult-zipzippipe-pixiv-148186519-p10.jpg

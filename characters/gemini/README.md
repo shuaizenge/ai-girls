@@ -8,7 +8,6 @@
 | --- | --- | --- |
 | [初始设计正常比例立绘](adult/zipzippipe-pixiv-148186519-p04.jpg) | 3072×5504 / adult / original_portrait | [P5（下标 p4）](https://www.pixiv.net/artworks/148186519) |
 | [作者原版Q版展示截帧](chibi/zipzippipe-BV1tE9XBbErS-11s.png) | 720×1280 / chibi / video_frame_reference | [11 秒](https://www.bilibili.com/video/BV1tE9XBbErS/) |
-| [作者另一形象版本（区别于初始猫娘）](adult/zipzippipe-pixiv-148186519-p10-variant.jpg) | 3072×5504 / adult / portrait_variant | [P11（下标 p10）](https://www.pixiv.net/artworks/148186519) |
 
 ## 预览
 
